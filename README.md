@@ -12,16 +12,14 @@
 https://www.clocol.com/obd.html
 
 ### 二、插件后台
-大数据插件后台: https://你的网站地址/zb_users/plugin/OnexinBigData/main.php
-初始OID：10000
-初始密码：d7aeb864648b
+* 大数据插件后台: https://你的网站地址/zb_users/plugin/OnexinBigData/main.php
+* 申请授权填的网址为 https://你的网站地址/zb_users/plugin/OnexinBigData/api.php
 
 ### 大数据采集通用教程：
 * 申请授权：https://we.onexin.com/?mod=bigdata&do=license
 * 视频教程：https://v.qq.com/x/page/e0558re5hk2.html
 * 图文教程：https://we.onexin.com/?mod=bigdata&do=faq
 
-申请授权填的网址为 https://你的网站地址/zb_users/plugin/OnexinBigData/api.php
 
 ### 三、触发代码放到网站模板尾部代码中，oid账号100000替换为自己的。
 ```
