@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>OnexinBigData</id>
+<name>①ONEXIN大数据采集</name>
+<url>https://www.onexin.com/</url>
+<note>ONEXIN大数据文章自动批量采集.</note>
+<description>ONEXIN大数据文章自动批量采集(Onexin BigData，简称OBD)，欢迎体验来自云端的采集器。
+支持自动识别国内的知名站点：论坛，资讯，微信，头条，视频，贴吧，问答，知乎，天涯等，防采集站点除外。</description>
+<path>main.php</path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>King@ONEXIN</name>
+  <email>onexin@qq.com</email>
+  <url>https://www.onexin.com/</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>162090</adapted>
+<version>1.11.2</version>
+<pubdate>2019-09-04</pubdate>
+<modified>2021-08-13</modified>
+<price>0</price>
+<phpver>5.6</phpver>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <existsfunctions></existsfunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+  <sidebar6></sidebar6>
+  <sidebar7></sidebar7>
+  <sidebar8></sidebar8>
+  <sidebar9></sidebar9>
+</sidebars>
+</plugin>
