@@ -17,9 +17,9 @@ https://www.clocol.com/obd.html
 初始密码：d7aeb864648b
 
 ### 大数据采集通用教程：
-申请授权：https://we.onexin.com/?mod=bigdata&do=license
-视频教程：https://v.qq.com/x/page/e0558re5hk2.html
-图文教程：https://we.onexin.com/?mod=bigdata&do=faq
+* 申请授权：https://we.onexin.com/?mod=bigdata&do=license
+* 视频教程：https://v.qq.com/x/page/e0558re5hk2.html
+* 图文教程：https://we.onexin.com/?mod=bigdata&do=faq
 
 申请授权填的网址为 https://你的网站地址/zb_users/plugin/OnexinBigData/api.php
 
