@@ -97,8 +97,8 @@ function bigdata_iplink($str){
 		
 	$url = '';
 	switch ($s[0]) {
-		case 'zblog':
-			// cms|123  
+		case 'portal':
+			// portal|123  
 			return array("../?id=".$s[1], 
 						"../zb_system/admin/edit.php?act=ArticleEdt&id=".$s[1]);
 			break;
