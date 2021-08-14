@@ -23,7 +23,7 @@ https://www.clocol.com/obd.html
 
 申请授权填的网址为 https://你的网站地址/zb_users/plugin/OnexinBigData/api.php
 
-### 三、触发代码放到后台网站统计代码中，oid账号100000替换为自己的。
+### 三、触发代码放到网站模板尾部代码中，oid账号100000替换为自己的。
 ```
 <script src="https://你的网站地址/zb_users/plugin/OnexinBigData/doing.php?oid=100000" async></script>
 ```
