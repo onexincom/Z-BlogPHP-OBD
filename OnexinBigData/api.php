@@ -20,7 +20,7 @@
 //bigdata_output("300");
 
 //if(!defined('OBD_CONTENT')) {
-	include_once dirname(__FILE__).'/load.other.php';
+	include_once __DIR__.'/load.other.php';
 //}
 
 //------------------------------------------------------------------------
