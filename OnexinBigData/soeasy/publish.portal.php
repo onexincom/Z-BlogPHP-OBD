@@ -82,7 +82,7 @@ if (in_array($action, array('insert'))) {
 }
 
 	if($art_id) {
-		DB::query("UPDATE ".DB::table('plugin_onexin_bigdata')." SET `status` = '1', `ip` = 'zblog|".$art_id."' WHERE `k` = '$_POST[k]'");
+		DB::query("UPDATE ".DB::table('plugin_onexin_bigdata')." SET `status` = '1', `ip` = 'portal|".$art_id."' WHERE `k` = '$_POST[k]'");
 	}
 	
 	//print_r($art_id);exit;
