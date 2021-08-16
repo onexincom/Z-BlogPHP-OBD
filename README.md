@@ -81,9 +81,8 @@ https://www.clocol.com/obd.html
 **Q：内容页获取不到内容或需要修改，怎么办？**
 * A：请在大数据平台，添加资源后，点击在线反馈，等待处理
 
+## 联系我们
 如果您在使用中有任何疑问，欢迎您随时与我们取得联系，ONEXIN新手交流QQ群：189610242
-
-# 联系我们
 
 ONEXIN BIGDATA COLLECTION
 ONEXIN大数据采集插件
