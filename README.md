@@ -84,8 +84,8 @@ https://www.clocol.com/obd.html
 ## 联系我们
 如果您在使用中有任何疑问，欢迎您随时与我们取得联系，ONEXIN新手交流QQ群：189610242
 
-ONEXIN BIGDATA COLLECTION
-ONEXIN大数据采集插件
+* ONEXIN BIGDATA COLLECTION
+* ONEXIN大数据云采集
 
-CLOUD COLLECTION
-https://www.clocol.com
+* CLOUD COLLECTION
+* https://www.clocol.com
