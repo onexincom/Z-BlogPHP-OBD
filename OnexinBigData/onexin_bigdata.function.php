@@ -23,7 +23,7 @@ if(!defined('OBD_CONTENT')) {
 // FILTER
 function bigdata_filter($content, $replace){
 	if(empty($replace)) return $content;
-	preg_match_all("/(.+)\|\|\|(.+)/", $replace, $matches);
+	preg_match_all("/(.+)\|\|\|([^\r]+)?/", $replace, $matches);
 	$content = str_replace($matches[1], $matches[2], $content);	
 	$content = preg_replace("/\<img [^>]*\{clear\}[^>]*>/i", '', $content);
 	return $content;
