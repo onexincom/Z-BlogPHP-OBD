@@ -28,13 +28,6 @@ $bid = !empty($_GET['bid']) ? intval($_GET['bid']) : 0;
 $_GET['op'] = isset($_GET['op']) ? $_GET['op'] : "";
 
 //-------------------------------------------------------------------------
-
-	// check admin
-	$user_id = '1';//get_current_user_id();
-	if( $user_id != '1' ){
-		$_GET['op'] = 'readme';		
-	}
-
 if($_GET['op'] == 'settings') {
 	
 	### Form Processing
