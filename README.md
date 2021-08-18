@@ -31,7 +31,7 @@ https://www.clocol.com/obd.html
 * 图文教程：https://we.onexin.com/?mod=bigdata&do=faq
 
 
-### 三、触发代码放到网站模板尾部代码中，oid账号100000替换为自己的。
+### 三、触发代码放到主题模板尾部中，oid账号100000替换为自己的。
 ```
 <script src="https://你的网站地址/zb_users/plugin/OnexinBigData/doing.php?oid=100000" async></script>
 ```
