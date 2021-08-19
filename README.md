@@ -21,12 +21,12 @@ ONEXIN大数据文章自动批量采集(Onexin BigData，简称OBD)，欢迎体�
 安装ONEXIN大数据文章采集器图文教程（修订版）
 https://www.clocol.com/obd.html
 
-### 二、插件后台
-* 大数据插件后台: https://你的网站地址/zb_users/plugin/OnexinBigData/main.php
-* 申请授权填的网址为 https://你的网站地址/zb_users/plugin/OnexinBigData/api.php
-
-### 大数据采集通用教程：
+### 二、申请授权
 * 申请授权：https://we.onexin.com/?mod=bigdata&do=license
+* 申请授权填的网址为 https://你的网站地址/zb_users/plugin/OnexinBigData/api.php
+* 大数据插件后台: https://你的网站地址/zb_users/plugin/OnexinBigData/main.php
+
+* 大数据采集通用教程：
 * 视频教程：https://v.qq.com/x/page/e0558re5hk2.html
 * 图文教程：https://we.onexin.com/?mod=bigdata&do=faq
 
