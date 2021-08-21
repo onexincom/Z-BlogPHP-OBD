@@ -31,10 +31,10 @@ if(!defined('OBD_CONTENT')) {
 }
 if(!defined('ZBP_PATH')) {
 	define('OBD_QUOTES_GPC', function_exists('get_magic_quotes_gpc') && get_magic_quotes_gpc());
-    //define('ROOT_PATH', '../../../');
+	define('ROOT_PATH', '../../../');
 
 	$dbinfo = include_once '../../../zb_users/c_option.php';	
-    include_once OBD_CONTENT_DIR . '/mydb.class.php';
+	include_once OBD_CONTENT_DIR . '/mydb.class.php';
   
 	$dbcharset = $dbinfo['ZC_MYSQL_CHARSET'];
 	$table = $dbinfo['ZC_MYSQL_PRE'];
@@ -43,10 +43,10 @@ if(!defined('ZBP_PATH')) {
 }else{
 	$_SESSION['obd'] = 1;
 	define('OBD_QUOTES_GPC', function_exists('get_magic_quotes_gpc') && get_magic_quotes_gpc());
-    //define('ROOT_PATH', '../../../');
+	define('ROOT_PATH', '../../../');
 
 	$dbinfo = $GLOBALS['option'];
-    include_once OBD_CONTENT_DIR . '/mydb.class.php';
+	include_once OBD_CONTENT_DIR . '/mydb.class.php';
   
 	$dbcharset = $dbinfo['ZC_MYSQL_CHARSET'];
 	$table = $dbinfo['ZC_MYSQL_PRE'];
