@@ -1,9 +1,11 @@
-<?php if(!defined('OBD_CONTENT')) exit('Access Denied'); ?>
+<?php if (!defined('OBD_CONTENT')) {
+    exit('Access Denied');
+} ?>
 <!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
-<title><?php echo __( 'OBD BigData', 'onexin-bigdata' ); ?></title>
+<title><?php echo __('OBD BigData', 'onexin-bigdata'); ?></title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="https://apps.bdimg.com/libs/bootstrap/2.3.2/css/bootstrap.min.css" rel="stylesheet">
 <style>
@@ -17,7 +19,7 @@ input, form { margin-bottom: inherit!important; }
 <body>
 <!--remove-admin-header-->
 <div class="content-box container-fluid wrap">
-  <h1><?php echo __( 'OBD BigData', 'onexin-bigdata' ); ?></h1>
+  <h1><?php echo __('OBD BigData', 'onexin-bigdata'); ?></h1>
   <form id="frmlogin" name="frmlogin" method="post" action="">
     OID:
     <input type="text" name="username" id="username" />

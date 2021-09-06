@@ -1,6 +1,8 @@
 <?php
 
-if(!defined('OBD_CONTENT')) { exit('Access Denied'); }
+if (!defined('OBD_CONTENT')) {
+    exit('Access Denied');
+}
 
 //2021-03-25 10:39:26 Created
 
