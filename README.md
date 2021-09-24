@@ -25,7 +25,7 @@ https://www.clocol.com/obd.html
 * 大数据插件后台: https://你的网站地址/zb_users/plugin/OnexinBigData/main.php
 
 * 大数据采集通用教程：
-* 视频教程：https://v.qq.com/x/page/e0558re5hk2.html
+* 视频教程：https://www.bilibili.com/video/BV1XP4y1h7W8/
 * 图文教程：https://we.onexin.com/?mod=bigdata&do=faq
 
 
